@@ -5,7 +5,7 @@ le placer dans un dossier "back",
 Copier le front end depuis le repo OC,
 le placer dans un dossier front,
 
-Istallez le tout : 
+Installez le tout : 
 Le front : cd front, npm install
 lancer le front : ng serve
 
